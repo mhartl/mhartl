@@ -4,4 +4,6 @@ Welcome to my public profile! This includes an example of a [Certificate of Comp
 
 [![Learn Enough Course Completed](https://www.learnenough.com/certificates/mhartl/command-line-tutorial.svg)](https://www.learnenough.com/certificates/mhartl)
 
+[![Learn Enough Course Completed](https://www.learnenough.com/certificates/mhartl/text-editor-tutorial.svg)](https://www.learnenough.com/certificates/mhartl)
+
 That badge shows that I have completed the [Learn Enough Command Line to Be Dangerous online course](https://www.learnenough.com/command-line).
